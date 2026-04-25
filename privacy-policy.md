@@ -1,40 +1,118 @@
-FocusCat: Gizlilik Politikası
-Son Güncelleme Tarihi: 24 Nisan 2026
+Odak Saati Pomodoro – Gizlilik Politikası
+Son Güncelleme: 25 Nisan 2026
 
-FocusCat ("biz", "tarafımızca" veya "uygulama") olarak, kullanıcılarımızın ("siz") gizliliğine büyük önem veriyoruz. Bu Gizlilik Politikası, uygulamamızı kullandığınızda verilerinizin nasıl işlendiğini açıklar.
+Bu gizlilik politikası, Odak Saati Pomodoro mobil uygulamasının ("Uygulama")
+kullanıcılarından hangi bilgilerin toplandığını, bu bilgilerin nasıl
+kullanıldığını, ne kadar süre saklandığını ve nasıl silinebileceğini açıklar.
 
-1. Toplanan Veriler
-FocusCat, temel çalışma prensibi gereği kişisel veri toplamaz. * Yerel Veriler: Odaklanma süreleriniz, kazandığınız altınlar, satın aldığınız eşyalar ve karakter ilerlemeniz tamamen kendi cihazınızda saklanır. Bu verilere tarafımızca erişilemez veya bu veriler sunucularımıza aktarılmaz.
+Uygulama herhangi bir kullanıcı hesabı oluşturmaz ve kişisel olarak sizi
+tanımlayan hiçbir bilgi (ad, e-posta, telefon, konum vb.) toplamaz.
 
-Kişisel Bilgiler: Uygulamayı kullanmak için isim, e-posta adresi veya telefon numarası gibi bilgiler vermeniz gerekmez.
+1. TOPLANAN BİLGİLER VE KULLANIM AMACI
 
-2. Üçüncü Taraf Hizmetler
-Uygulamamız, işlevselliği artırmak için aşağıdaki üçüncü taraf hizmetleri kullanabilir:
+1.1. Uygulama İçi Kullanıcı Verileri
+Uygulamanın temel işlevini yerine getirebilmek için aşağıdaki bilgiler
+yalnızca cihazınızın yerel hafızasında saklanır:
 
-Google Play Hizmetleri: Uygulamanın Android cihazlarda doğru çalışması ve güncellemeler için kullanılır.
+- Odaklanma seansı süreleri ve tamamlanan seans sayısı
+- Kazanılan token (jeton) miktarı
+- Sanal odanızda yerleştirdiğiniz eşyalar ve konumları
+- Uygulama tercihleri (seans süresi, mola süresi, ses/titreşim ayarları)
 
-AdMob (Opsiyonel): Uygulama içinde reklam gösterimi yapılıyorsa, Google AdMob kişiselleştirilmemiş reklamlar sunmak için cihaz kimliğinizi (ID) kullanabilir.
+Bu bilgiler sunucularımıza gönderilmez, tarafımızca saklanmaz ve üçüncü
+taraflarla paylaşılmaz.
 
-Firebase Analytics: Uygulama içindeki hataları tespit etmek ve kullanıcı deneyimini iyileştirmek için anonim kullanım istatistikleri toplayabilir.
+1.2. Bildirim İzni
+Pomodoro seans sonu ve mola hatırlatmalarını gönderebilmek için cihazınızın
+bildirim izni talep edilir. Bu izin yalnızca yerel bildirim göndermek için
+kullanılır.
 
-3. Veri Güvenliği
-Verileriniz cihazınızda yerel olarak saklandığı için, verilerinizin güvenliği cihazınızın güvenliğine bağlıdır. Uygulamanın silinmesi durumunda, yerel olarak saklanan tüm oyun ilerlemeniz (altınlar, eşyalar vb.) kalıcı olarak silinebilir.
+1.3. Reklam Kimliği
+Uygulama içerisinde reklam gösterimi amacıyla cihazınızın Android Reklam
+Kimliği (Advertising ID) Google AdMob tarafından kullanılır. Bu kimlik
+tarafımızca toplanmaz veya saklanmaz; doğrudan AdMob altyapısı tarafından
+işlenir.
 
-4. Çocukların Gizliliği
-FocusCat, her yaştan kullanıcı için uygundur. 13 yaşın altındaki çocuklardan bilerek ve isteyerek kişisel veri toplamıyoruz. Eğer bir çocuğun bize kişisel veri sağladığını fark ederseniz, lütfen bizimle iletişime geçin; bu bilgileri derhal sileceğiz.
+1.4. Anonim Kullanım Verileri
+Uygulamanın kararlılığını ve performansını izlemek amacıyla Firebase
+Analytics aracılığıyla anonim kullanım istatistikleri (uygulama açılış
+sayısı, hata raporları, cihaz modeli, işletim sistemi sürümü) toplanabilir.
+Bu veriler kişisel olarak sizi tanımlamaz.
 
-5. Değişiklikler
-Bu Gizlilik Politikası zaman zaman güncellenebilir. Herhangi bir değişiklik durumunda yeni politikayı bu sayfada yayınlayacağız.
+2. UYGULAMA İÇİ SATIN ALMA
 
-6. İletişim
-Bu politika hakkında herhangi bir sorunuz varsa, bizimle şu e-posta adresi üzerinden iletişime geçebilirsiniz:
+Uygulamada gerçek para ile yapılan herhangi bir satın alma işlemi
+bulunmamaktadır. Uygulama içindeki tüm tokenlar (jetonlar) ve eşyalar
+yalnızca odaklanma seanslarını tamamlayarak kazanılır. Bu nedenle ödeme
+bilgisi, kredi kartı bilgisi veya fatura bilgisi toplanmaz.
+
+3. VERİ SAKLAMA SÜRESİ
+
+- Odaklanma seansı kayıtları, tokenlar, sanal oda verileri ve uygulama
+  tercihleri: Cihazınızın yerel hafızasında, uygulama yüklü olduğu sürece
+  tutulur. Uygulamayı kaldırdığınızda veya uygulama içinden "Verileri
+  Sıfırla" seçeneğini kullandığınızda silinir.
+- Firebase Analytics anonim verileri: Google'ın varsayılan saklama
+  politikası kapsamında en fazla 14 ay süreyle tutulur ve sonrasında
+  otomatik olarak silinir.
+- AdMob reklam verileri: Google AdMob'un kendi gizlilik politikasında
+  belirtilen sürelere tabidir.
+
+4. VERİLERİNİZİ NASIL SİLEBİLİRSİNİZ
+
+4.1. Uygulama içinden silme:
+Uygulama Ayarlar bölümündeki "Verileri Sıfırla" seçeneği ile tüm
+odaklanma geçmişinizi, tokenlarınızı ve sanal oda düzeninizi anında
+silebilirsiniz.
+
+4.2. Cihaz ayarlarından silme:
+Cihaz Ayarları > Uygulamalar > Odak Saati Pomodoro > Depolama >
+"Verileri Temizle" yolunu izleyerek tüm yerel verileri silebilirsiniz.
+Uygulamayı kaldırmanız da tüm yerel verileri kalıcı olarak siler.
+
+4.3. Bildirim izni:
+Cihaz Ayarları > Uygulamalar > Odak Saati Pomodoro > Bildirimler yolundan
+dilediğiniz zaman bildirim iznini iptal edebilirsiniz.
+
+4.4. Reklam Kimliği:
+Cihaz Ayarları > Google > Reklamlar bölümünden reklam kimliğinizi
+sıfırlayabilir veya silebilirsiniz.
+
+4.5. Firebase Analytics ve diğer hesap düzeyindeki veriler:
+Bu verilerin silinmesi için aşağıdaki e-posta adresine talep
+gönderebilirsiniz. Talebiniz 30 gün içinde işleme alınır:
 muhammetmmetin@gmail.com
 
-Google Play İçin Önemli İpucu:
-Hosting: Bu metni ücretsiz bir şekilde App-Privacy-Policy-Generator gibi sitelerde oluşturabilir veya bir GitHub Gist açıp "Raw" linkini kullanabilirsin.
+5. ÜÇÜNCÜ TARAF HİZMETLER
 
-Veri Güvenliği Formu: Google Play Console'da "Veri Güvenliği" (Data Safety) formunu doldururken şunları işaretlemelisin:
+Uygulamamız aşağıdaki üçüncü taraf hizmet sağlayıcılarını kullanır.
+Bu sağlayıcılar kendi gizlilik politikalarına tabidir:
 
-"Uygulamanız herhangi bir kullanıcı verisi topluyor mu?" -> Hayır (Eğer reklam veya analiz koymadıysan).
+- Google AdMob: https://policies.google.com/technologies/ads
+- Firebase / Google Analytics: https://firebase.google.com/support/privacy
 
-"Tüm kullanıcı verileri cihazda yerel olarak mı işleniyor?" -> Evet
+6. VERİ GÜVENLİĞİ
+
+Tüm uygulama verileri yalnızca cihazınızın yerel hafızasında tutulduğu
+için ağ üzerinden iletim sırasında oluşabilecek riskler söz konusu
+değildir. Kişisel verileriniz hiçbir koşulda üçüncü taraflara satılmaz
+veya pazarlama amacıyla paylaşılmaz.
+
+7. ÇOCUKLARIN GİZLİLİĞİ
+
+Uygulama 13 yaşın altındaki çocuklara yönelik değildir ve bu yaş
+grubundan bilerek kişisel veri toplanmaz. 13 yaşın altındaki bir
+çocuğun kişisel bilgilerini paylaştığını fark edersek, bu bilgiler
+en kısa sürede sistemlerimizden silinir.
+
+8. POLİTİKA DEĞİŞİKLİKLERİ
+
+Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler
+uygulama içinde veya bu sayfada duyurulur. Politikanın en son güncellenme
+tarihi sayfanın başında belirtilmiştir.
+
+9. İLETİŞİM
+
+Gizlilik politikası ile ilgili sorularınız, veri silme talepleriniz veya
+geri bildirimleriniz için:
+E-posta: muhammetmmetin@gmail.com
